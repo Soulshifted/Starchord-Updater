@@ -1,8 +1,8 @@
 {
-  "preview": 21,
-  "versionCode": 21,
-  "apk": "https://github.com/Soulshifted/Starchord-Updater/releases/download/preview-21/Starchord-Preview-21.apk",
-  "size": 11243871,
-  "sha256": "ec797ed7b0836bc2b2e57897fba64b56c8ce4fc89606d42bc4b7e0bd83d787a2",
-  "notes": "Starchord Preview 21."
+  "preview": 22,
+  "versionCode": 22,
+  "apk": "https://github.com/Soulshifted/Starchord-Updater/releases/download/preview-22/Starchord-Preview-22.apk",
+  "size": 11239495,
+  "sha256": "63bd2a9badf390c318315443381758235a90505bd9f6f3467cabc80746ed23da",
+  "notes": "Starchord Preview 22."
 }
